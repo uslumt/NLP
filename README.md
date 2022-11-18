@@ -5,7 +5,6 @@
 <img src="figures/mainpage/main2.png"  />
 
 
-
 ### Table of Contents
 
 1. [Installation](#installation)
