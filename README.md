@@ -2,6 +2,8 @@
 
 
 <img src="figures/mainpage/main1.png"  />
+<img src="figures/mainpage/main2.png"  />
+    Project Main Page
 
 
 ### Table of Contents
